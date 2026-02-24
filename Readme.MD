@@ -247,10 +247,6 @@ PROCESS_INTERVAL=5
 
 This is a portfolio project. Feel free to fork and extend!
 
-## 📄 License
-
-MIT License
-
 ## 👤 Author
 
 **Vedik Agarwal**
